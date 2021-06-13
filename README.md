@@ -1,7 +1,7 @@
 ### Hi, I'm Anika Kalia 👋
 
 
-😄 I’m currently pursuing B Tech CSE from Amity University,Noida (Batch: 2018-22)
+😄 I’m currently pursuing B Tech CSE from Amity University,Noida
 
 ![Anika Kalia Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anika16&layout=compact&theme=radical)
 
