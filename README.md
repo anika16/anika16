@@ -3,7 +3,8 @@
 
 😄 I’m currently pursuing B Tech CSE from Amity University,Noida
 
-![Anika Kalia Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anika16&layout=compact&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anika16)](https://github.com/anika16/github-readme-stats)
 
 ## Connect with me:
 
